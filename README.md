@@ -2,7 +2,7 @@
 
 A sophisticated automation tool designed to simulate realistic human typing patterns. Unlike standard autotypers that output text with robotic precision, this engine introduces intentional imperfections, cognitive pauses, and fatigue simulation to mimic a real person behind the keyboard.
 
-![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![UI](https://img.shields.io/badge/UI-Modern%20Dark-121212?style=for-the-badge)
 
@@ -27,7 +27,7 @@ A sophisticated automation tool designed to simulate realistic human typing patt
 
 ### Prerequisites
 
-*   Python 3.7+
+*   Python 3.10+
 *   Tkinter (usually included with Python)
 
 ### Installation
