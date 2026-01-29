@@ -58,6 +58,9 @@ A sophisticated automation tool designed to simulate realistic human typing patt
     *   **Fatigue:** Percentage speed drop as the text nears completion.
 4.  **Start:** Click "Start Typing" and immediately click into your target text field.
 
+## 📷 Screenshots
+|<img width="519" height="788" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b83ff63c-b4ee-4a2d-8dc6-a5daf73dd975" />|<img width="519" height="789" alt="Screenshot_2" src="https://github.com/user-attachments/assets/de4c43f6-6d94-4d95-ae2f-cf3fd61e16fb" />|<img width="518" height="789" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6b3c0571-e888-4969-966e-eec3bf65d5ac" />|
+
 ## ⚙️ Advanced Settings
 
 | Setting | Description |
