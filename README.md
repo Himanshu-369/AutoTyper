@@ -34,7 +34,7 @@ A sophisticated automation tool designed to simulate realistic human typing patt
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/humanized-autotyper.git
+    git clone https://github.com/Himanshu-369/AutoTyper.git
     cd humanized-autotyper
     ```
 
